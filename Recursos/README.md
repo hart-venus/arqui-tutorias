@@ -14,4 +14,5 @@
 ## MASM y Visual Studio
 - [Tutorial de setup](https://www.wikihow.com/Use-MASM-in-Visual-Studio-2022#:~:text=Setting%20up%20MASM%20in%20Visual%20Studio%201%201,You%27ll%20Need%20section.%20...%205%205%20Done%21%20)
 - [ASMdude](https://marketplace.visualstudio.com/items?itemName=Henk-JanLebbink.AsmDude)
+- Adicionalmente, en la carpeta existe una plantilla de Visual Studio, recordar cambiar a modo x86 para que funcione, o bien cambiar el código a x64.
 
