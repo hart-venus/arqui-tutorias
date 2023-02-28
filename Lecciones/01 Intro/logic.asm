@@ -36,7 +36,6 @@
 
             inc si  ; incrementamos el indice (nuestro i++)
                     ; no es necesario, pero conviene tener un indice.
-
         loop ciclo ; cx = cx - 1; if (cx != 0) goto ciclo;
 
         ; comparacion de A y B
