@@ -17,6 +17,7 @@
         mov ax, @data
         mov ds, ax
 
+
         ; 1. basicas
         inc num1 ; num1 += 1
         dec num1 ; num1 -= 1
