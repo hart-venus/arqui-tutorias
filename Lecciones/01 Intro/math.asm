@@ -1,3 +1,4 @@
+; mate entera 16 bits
 .model small
 .stack 100h
 
