@@ -32,7 +32,7 @@
         mov ds, ax    ; movemos el segmento de datos a ds
                       ; ds es donde se almacenan la direccion de los datos
 
-        ; ax bx cx dx | ahal bhbl chcl dhdl
+        ; eax ebx ecx dcx | ax bx cx dx | ahal bhbl chcl dhdl
         ; las interrupciones se comunican con I/O.
         ; tienen codigos y "parametros" que esperan.
         ; la int ah=09h, 21h es la funcion de imprimir una cadena

@@ -3,9 +3,8 @@
 
 ExitProcess PROTO, dwExitCode:DWORD ; prototipo de funcion con su argumento.
                                     ; ver mas en masm.asm
-
 .data
-
+; db byte -> dw word -> dd dword -> dq qword (64 bits)
 
 .code
 
