@@ -5,5 +5,6 @@
 2. exponenciales.asm, productopunto.asm - Recreacion de funciones con ensamblador, repaso
 3. ejptr.asm - Ejemplo de uso de punteros
 4. strcpy.asm - Ejemplo de uso de punteros y arreglos para copiar cadenas
+5. productopunto.asm - Ejemplo de uso de punteros y arreglos para calcular el producto punto
 
 ## Recursos
