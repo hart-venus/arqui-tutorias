@@ -1,9 +1,9 @@
 @ File: hola.s
 @ Description: Un programa de ejemplo en ARM
 
-.global _start
+.global main
 
-_start:
+main:
     @ Write the message to stdout
     mov r0, #1         @ File descriptor 1: stdout
     ldr r1, =message   @ The message to write
