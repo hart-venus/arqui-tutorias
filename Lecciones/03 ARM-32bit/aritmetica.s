@@ -1,5 +1,5 @@
 .global main
-.extern printfa
+.extern printf
 
 main:
     @ load variables
